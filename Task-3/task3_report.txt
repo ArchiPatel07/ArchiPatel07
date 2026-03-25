@@ -1,0 +1,8 @@
+I solved a programming problem on HackerRank using Python. The problem required applying conditional statements to determine whether a number is "Weird" or "Not Weird" based on given conditions.
+I carefully analyzed the problem and implemented the solution using if-elif-else statements.
+
+After writing the code, I tested it with the provided sample inputs and ensured that all test cases passed successfully.
+This task helped me improve my understanding of conditional logic and how to structure decision-making in programming.
+
+I found it interesting to see how small changes in conditions can affect the output of a program. The most challenging part was ensuring that all conditions were checked correctly without overlap or logical errors.
+Overall, this task strengthened my problem-solving skills and confidence in coding.
