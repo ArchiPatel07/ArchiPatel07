@@ -6,7 +6,7 @@ Digital Literacy Project
 - Specialisation : Artificial Intelligence and Machine Learning
 - Year : currently in 1st year
 - Course code : CSE0001
-I am currently learning digital literacy and improving my technicaland problem sloving skills
+I am currently learning digital literacy and improving my technicaland problem solving skills
 
 📌 Project Overview
 This repository contains my Digital Literacy Project completed as part of the CSE0001 course. The project focuses on building essential digital skills required for students, including the use of digital tools, coding, professional communication, and cyber safety awareness. Each module is designed to provide practical knowledge and real-world application of digital literacy concepts.
