@@ -4,7 +4,7 @@ Digital Literacy Project
 - Registration Number: 25BAI10588
 - Branch : Computer Science Engineering
 - Specialisation : Artificial Intelligence and Machine Learning
-- Year : currently in 1st year
+- Year : currently in 2nd year
 - Course code : CSE0001
 I am currently learning digital literacy and improving my technicaland problem solving skills
 
