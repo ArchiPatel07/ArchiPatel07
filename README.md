@@ -1,54 +1,21 @@
-Digital Literacy Project
+# Hi, I'm Archi Patel
 
-- Name: Patel Archiben Timirbhai
-- Registration Number: 25BAI10588
-- Branch : Computer Science Engineering
-- Specialisation : Artificial Intelligence and Machine Learning
-- Year : currently in 2nd year
-- Course code : CSE0001
-I am currently learning digital literacy and improving my technicaland problem solving skills
+B.Tech CSE (AI & ML) student at **VIT Bhopal**, on a journey from "Hello World" to "Hello Artificial World".
+I like building practical projects in Python and Java, and I'm looking for an AI/ML internship.
 
-📌 Project Overview
-This repository contains my Digital Literacy Project completed as part of the CSE0001 course. The project focuses on building essential digital skills required for students, including the use of digital tools, coding, professional communication, and cyber safety awareness. Each module is designed to provide practical knowledge and real-world application of digital literacy concepts.
+## 🛠 Skills
+- **Languages:** Python, Java, C++
+- **Areas:** Artificial Intelligence basics, OOP, DSA
+- **Tools:** Git, GitHub, VS Code
 
-📚 Module Summaries
+## 🚀 Projects
+| Project | Description | Tech |
+| [Phishing-URL-Detection](https://github.com/ArchiPatel07/Phishing-URL-Detection) | [One line: what it detects and how] | Python |
+| [AirlineReservationSystem](https://github.com/ArchiPatel07/AirlineReservationSystem) | Airline ticket booking and reservation management | Java |
+| [BankManagement](https://github.com/ArchiPatel07/BankManagement) | Simple program to manage bank accounts | Python |
+| [My-Daily-Routine-Tracker](https://github.com/ArchiPatel07/My-Daily-Routine-Tracker) | [One line] | [Tech]
 
-🔹 Module 1: Digital Literacy Infographic
-Created an infographic using Canva to explain:
-Digital literacy concepts
-Useful tools for students
-Safe internet practices
-Professional online presence
-Email etiquette
-📁 Folder: task-1-presentation/
-
-🔹 Module 2: Digital Portfolio
-Developed a professional online presence by creating profiles on:
-GitHub (project repository)
-LinkedIn (professional networking)
-Kaggle (data science platform)
-📁 Folder: task-2-portfolio/
-
-🔹 Module 3: Coding & Google Form
-Solved a Python problem on HackerRank
-Created a Google Form for data collection
-📁 Folder: task-3-coding-googleform/
-
-🔹 Module 4: Email Writing & Etiquette
-Wrote a formal email
-Documented do’s and don’ts of email communication
-📁 Folder: task-4-email/
-
-🔹 Module 5: Cybercrime Awareness
-Case study on cyberbullying
-Safety measures and prevention
-Personal reflection
-📁 Folder: task-5-cybercrime/
-
-🔗 Important Links
-GitHub Repository: https://github.com/ArchiPatel07/ArchiPatel07/edit/main/README.md
-LinkedIn Profile: https://www.linkedin.com/in/archi-patel-2112983b5/
-Kaggle Profile: https://www.kaggle.com/archipatel07
-
-📘 Conclusion
-This project helped me improve my digital literacy skills, including technical knowledge, communication, and awareness about online safety. It provided hands-on experience with tools and platforms that are useful in both academic and professional environments.
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/archi-patel-2112983b5/
+- Kaggle: https://www.kaggle.com/archipatel07
+- Email: patel.25bai10588@vitbhopal.ac.in,archiepatel007@gmail.com
