@@ -14,6 +14,7 @@ I like building practical projects in Python and Java, and I'm looking for an AI
 | [AirlineReservationSystem](https://github.com/ArchiPatel07/AirlineReservationSystem) | Airline ticket booking and reservation management | Java |
 | [BankManagement](https://github.com/ArchiPatel07/BankManagement) | Simple program to manage bank accounts | Python |
 | [My-Daily-Routine-Tracker](https://github.com/ArchiPatel07/My-Daily-Routine-Tracker) | [One line] | [Tech]
+| [eSIM Tool Manager](https://github.com/ArchiPatel07/[repo-name])| A tool to manage eSIM profiles: add, view, activate and delete.
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/archi-patel-2112983b5/
